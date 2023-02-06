@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "nEGkvjrUX1AO6Dx+/Y9zJBjyr5t94Tnno9w80T14Cw7OswxUqnG1Dl/M/6/4LoSbzSfFactws98NJxSLhEdxdw==",
+  "dgSpecHash": "eZkEkpO8B94qiHcyX+z5kV2DjCfM4PO5a0OjqXZjmkZqYTcbqwem3BTZaZqiN8jwqMVECRu6qcHC1Rf+tappWg==",
   "success": true,
   "projectFilePath": "D:\\Web API Core Udemy project\\WebAPI-Core-Udemy-Project\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\laxmi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",

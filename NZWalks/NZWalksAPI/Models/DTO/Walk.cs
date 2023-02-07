@@ -1,4 +1,4 @@
-﻿namespace NZWalksAPI.Models.Domain
+﻿namespace NZWalksAPI.Models.DTO
 {
     public class Walk
     {
@@ -8,8 +8,7 @@
         public Guid RegionId { get; set; }
         public Guid WalkDifficultyId { get; set; }
 
-        // Navigation Properties and walk is having one-to-one relation with Region and WalkDifficulty
-        //which means walk can be attached only to one region and walk can have only one particular Difficulty type
+        // Navigation Properties
         public Region Region { get; set; }
         public WalkDifficulty WalkDifficulty { get; set; }
     }

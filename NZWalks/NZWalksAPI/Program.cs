@@ -15,8 +15,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<NZWalksDbContext>
     ( options => { options.UseSqlServer(builder.Configuration.GetConnectionString("NZWalks")); } );
 
-//Dependency Injection for Region
+//Dependency Injection for Region,Walk
 builder.Services.AddScoped<IRegionRepository, RegionRepository>();
+builder.Services.AddScoped<IWalkRepository, WalkRepository>();
 
 //Injecting AutoMapper
 builder.Services.AddAutoMapper(typeof(Program).Assembly);

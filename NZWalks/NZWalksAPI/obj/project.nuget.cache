@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eZkEkpO8B94qiHcyX+z5kV2DjCfM4PO5a0OjqXZjmkZqYTcbqwem3BTZaZqiN8jwqMVECRu6qcHC1Rf+tappWg==",
+  "dgSpecHash": "7SddjtU+NnsIraEmVDyA9wJzqEUBYdbFOsxpa2Rk9XROz0sJNILIAw+ZdQODu6wT1PHTzplss2MAFfNvaCQhPQ==",
   "success": true,
   "projectFilePath": "D:\\Web API Core Udemy project\\WebAPI-Core-Udemy-Project\\NZWalks\\NZWalksAPI\\NZWalksAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,9 @@
     "C:\\Users\\laxmi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\laxmi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\laxmi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

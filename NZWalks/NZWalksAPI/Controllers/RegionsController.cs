@@ -64,10 +64,11 @@ namespace NZWalksAPI.Controllers
         public async Task<IActionResult> AddRegionAsync(Models.DTO.AddRegionRequest addRegionRequest)
         {
             //Validating the client request before sending the data
-            if(!ValidateAddRegionAsync(addRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if(!ValidateAddRegionAsync(addRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
+            //Commented the above model validation for replacing with Fluent validation
 
             //DTO request is converted to domain model
             var region = new Models.Domain.Region()
@@ -131,10 +132,11 @@ namespace NZWalksAPI.Controllers
         {
 
             //Validating the Client request before sending the data
-            if(!ValidateUpdateRegionAsync(updateRegionRequest))
-            {
-                return BadRequest(ModelState);
-            }
+            //if(!ValidateUpdateRegionAsync(updateRegionRequest))
+            //{
+            //    return BadRequest(ModelState);
+            //}
+            //Commented the above model validation for replacing with Fluent validation
 
             //Convert DTO to domain model
             var region = new Models.Domain.Region()

@@ -90,3 +90,4 @@ D:\Web API Core Udemy project\WebAPI-Core-Udemy-Project\NZWalks\NZWalksAPI\obj\D
 D:\Web API Core Udemy project\WebAPI-Core-Udemy-Project\NZWalks\NZWalksAPI\bin\Debug\net6.0\FluentValidation.dll
 D:\Web API Core Udemy project\WebAPI-Core-Udemy-Project\NZWalks\NZWalksAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 D:\Web API Core Udemy project\WebAPI-Core-Udemy-Project\NZWalks\NZWalksAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Web API Core Udemy project\WebAPI-Core-Udemy-Project\NZWalks\NZWalksAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
